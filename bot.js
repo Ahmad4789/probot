@@ -4,9 +4,9 @@ console.log("Scrpit By Dream");
 
 
 client.on("ready", () => {
-let channel =     client.channels.get("562584649163997190")
+let channel =     client.channels.get("639157445586845697")
 setInterval(function() {
-channel.send(`البرو بوت مش كثير صعب بس مشكلتو بدو كتابة كثير فا يب ._._._.__._. فر بحاول اني اجيب كمان كريديت عشان اشتري والخ..`);
+channel.send(`لا تقرا وتوجع راسك نصيحة`);
 }, 30)
 })
 
